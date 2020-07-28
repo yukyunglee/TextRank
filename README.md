@@ -6,10 +6,13 @@ python 3 TextRank implemenation
   * networkx 
 
 * Using spacy pretrained word vector
+ 1) small word vector
   ```
   python -m spacy download en_core_web_sm 
   ```
   or 
+  
+ 2) large word vector
   ```
   python -m spacy download en_core_web_lg 
   ```
