@@ -10,7 +10,6 @@ python 3 TextRank implemenation
   ```
   python -m spacy download en_core_web_sm 
   ```
-  or 
   
  2) large word vector
   ```
