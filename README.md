@@ -1,5 +1,5 @@
 # TextRank
-python 3 TextRank implemenation
+python 3 TextRank implemenation (english text data/ using pretrained word vector)
 
 * requirements
   * spacy 
